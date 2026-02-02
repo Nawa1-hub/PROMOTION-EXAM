@@ -1,2 +1,3 @@
-# PROMOTION-EXAM
-This project is specifically for my promotion examination. 
+# EXAM TITLE: PROMOTION EXAM REPOSITORY 
+# COURSE NAME: PYTHON PROGRAMMING 
+# STUDENT NUMBER: 2024070551
